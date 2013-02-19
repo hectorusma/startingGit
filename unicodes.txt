@@ -1,4 +1,4 @@
-#Algunos codigos unicode: 
+#Algunos codigos unicode:    
 # á=\u00e1, à=\u00E0 
 # é=\u00e9, è =\u00e8 
 # í=\u00ed, ì=\u00ec, ï=\u00EF 
@@ -7,4 +7,4 @@
 # ´=\u00B4
 # ç=\u00e7
 # À=\u00C0
-# ·=\u00b7 ,smfklsmfsmdfskld
+# ·=\u00b7    kjskjdks
